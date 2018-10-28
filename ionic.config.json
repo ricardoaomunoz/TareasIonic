@@ -1,0 +1,6 @@
+{
+  "name": "tareas",
+  "integrations": {},
+  "type": "ionic-angular",
+  "proxy": "http://129.1.1.1:3128"
+}
